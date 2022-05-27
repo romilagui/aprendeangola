@@ -1,0 +1,54 @@
+/**************** HTML TAGs Selectors ******************/
+body {
+  margin: 0;
+  background-color: black;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+em {
+  text-decoration: underline;
+}
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: goldenrod;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: goldenrod;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: blanchedalmond;
+}
+/*********************** class selectors *******************/
+.bottom-container {
+}
+.bottom-cloud {
+  margin-right: 50%;
+}
+.btn {
+  color: goldenrod;
+}
+.footer-link {
+  color: goldenrod;
+}
+.middle-container {
+}
+p {
+  color: antiquewhite;
+}
+ul {
+  color:bisque;
+  
+}
+.top-cloud{
+  margin-left: 400px;
+}
+.top-container {
+  padding-top: 100px;
+  background-color: black;
+}
+/********************* Element Selectors **********************/
